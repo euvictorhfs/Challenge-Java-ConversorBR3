@@ -7,4 +7,6 @@ Creation of Java code using the javax.swing library. The currency converter proj
 
 ## Sobre o desafio
 
-O conversor de moedas deverá converter de reais para dólar, euro, libras esterlinas, peso argentino e peso chileno, assim como de forma inversa. O desenvolvimento do projeto deve ser trabalhado com o sistema ágil de desenvolvimento utilizando o Trello feito pela Alura.
+O conversor de moedas deverá converter de reais para dólar, euro, libras esterlinas, peso argentino e peso chileno, assim como de forma inversa. O desenvolvimento do projeto deve ser trabalhado com o sistema ágil de desenvolvimento utilizando o Trello feito pela Alura cursos.
+
+The currency converter should convert from reais (BRL) to US dollars, euros, British pounds, Argentine pesos and Chilean pesos, as well as vice versa. The development of the project must be worked with the agile development system using Trello made by Alura courses.
